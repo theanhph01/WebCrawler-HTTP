@@ -1,0 +1,23 @@
+{
+  "name": "webcrawler-http",
+  "version": "1.0.0",
+  "description": "Project for learn HTTP",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theanhph01/WebCrawler-HTTP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theanhph01/WebCrawler-HTTP/issues"
+  },
+  "homepage": "https://github.com/theanhph01/WebCrawler-HTTP#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
